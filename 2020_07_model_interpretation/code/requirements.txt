@@ -120,7 +120,7 @@ jupyter-console==6.0.0
 jupyter-core==4.4.0
 jupyter-server-proxy==1.0.1
 jupyter-tensorboard==0.1.10
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 jupyterlab-dash==0.1.0a3
 jupyterlab-launcher==0.13.1
 jupyterlab-server==0.2.0
