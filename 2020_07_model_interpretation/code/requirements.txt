@@ -59,7 +59,7 @@ dash-html-components==0.16.0
 dash-renderer==0.23.0
 dash-table==3.6.0
 dash-table-experiments==0.6.0
-dask==1.1.4
+dask==2021.10.0
 datashape==0.5.4
 decorator==4.4.0
 defusedxml==0.5.0
