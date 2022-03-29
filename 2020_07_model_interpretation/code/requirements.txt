@@ -174,7 +174,7 @@ pandas-datareader==0.7.0
 pandas-profiling==1.4.1
 pandoc==1.0.2
 pandocfilters==1.4.2
-paramiko==2.4.2
+paramiko==2.10.1
 parso==0.3.4
 partd==0.3.10
 path.py==11.5.0
