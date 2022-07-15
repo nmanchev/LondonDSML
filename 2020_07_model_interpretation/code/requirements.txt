@@ -64,7 +64,7 @@ datashape==0.5.4
 decorator==4.4.0
 defusedxml==0.5.0
 dill==0.3.1.1
-distributed==1.26.0
+distributed==2021.10.0
 docutils==0.14
 ds-lime==0.1.1.27
 eli5==0.10.1
