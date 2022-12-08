@@ -34,7 +34,7 @@ bs4==0.0.1
 bson==0.5.8
 bz2file==0.98
 cairocffi==1.0.2
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 cftime==1.0.3.4
 chardet==3.0.4
